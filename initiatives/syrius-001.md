@@ -1,4 +1,4 @@
-## Initiative: Bloc Refactor (Core Wallet)
+## Initiative: 001 (Bloc Refactor)
 
 **Lead / Sponsor:** @?:hc1.chat  
 **Status:** In progress  

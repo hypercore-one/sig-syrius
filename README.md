@@ -49,7 +49,8 @@ The Syrius SIG focuses exclusively on the **core Syrius application** and its di
 - Core wallet UX and UI.  
 - Transaction, account, and key management.  
 - Cross-platform builds and CI/CD processes.  
-- Security, encryption, and integration with the Dart SDK.  
+- Security, encryption, and integration with the Dart SDK.
+- Unit, widget, and integration tests; test infra and coverage targets.
 - Documentation and contributor onboarding.  
 
 **Out of scope:**
@@ -102,13 +103,12 @@ These include expectations for participation, proposal lifecycle, and consensus-
 
 ---
 
-## Resources
+## Active Initiatives
 
-- [Zenon Network Documentation](https://zenon.network)  
-- [HyperCore One GitHub](https://github.com/hypercore-one)
+These are the current working streams or major efforts under the Syrius SIG. They provide focus, allow contributors to pick up tasks with clear orientation, and can evolve over time.
 
----
+> Full list: **[/initiatives](/initiatives)**
 
-## License
-
-All documentation and materials in this repository are published under the [MIT License](https://opensource.org/licenses/MIT).
+| ID | Title | Description |
+|---:|---|---|
+| Syrius-001 | [Bloc Refactor](/initiatives/syrius-001) | Refactor Syrius to a modular **Bloc** architecture, modernize storage, dependencies, build flavors, analyzer rules, concurrency, and testing to enable long-term maintainability (mobile + desktop). |

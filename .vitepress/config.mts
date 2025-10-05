@@ -20,7 +20,13 @@ export default defineConfig({
       {
         text: 'Syrius SIG',
         items: [
-          { text: 'README', link: '/'},
+          { text: 'README', link: '/'}
+        ]
+      },
+      {
+        text: 'Active Initiatives',
+        items: [
+          { text: 'Syrius-001 (Bloc Refactor)', link: '/initiatives/syrius-001'}
         ]
       }
     ],

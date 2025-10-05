@@ -7,8 +7,6 @@ lastUpdated: true
 # Syrius SIG — HyperCore One
 *Cross-platform non-custodial wallet*
 
----
-
 ## Contact & Meetings
 
 - **Matrix:** `#sig-syrius:hc1.chat`  
@@ -17,8 +15,6 @@ lastUpdated: true
 
 All contributors are welcome to join discussions and participate in meetings. Notes and decisions will be published in the `hc1-sig-archive` repository.
 
----
-
 ## Overview
 
 The Syrius SIG operates under the **HyperCore One (HC1)** organization as part of the broader effort to strengthen the **Zenon Network** ecosystem through structured open collaboration.
@@ -26,8 +22,6 @@ The Syrius SIG operates under the **HyperCore One (HC1)** organization as part o
 The **Syrius Special Interest Group (SIG)** focuses on the ongoing development, maintenance, and improvement of **Syrius**, the flagship cross-platform non-custodial wallet for the Zenon Network.
 
 This SIG provides a structured environment for open collaboration, design discussions, issue triage, and roadmap alignment related to Syrius core functionality.
-
----
 
 ## Mission
 
@@ -38,8 +32,6 @@ The Syrius SIG aims to:
 - Discuss and document wallet architecture, UX, and platform consistency.
 - Facilitate coordination between developers, designers, and community contributors.
 - Support transparent development through public discussions and documented decisions.
-
----
 
 ## Scope
 
@@ -56,8 +48,6 @@ The Syrius SIG focuses exclusively on the **core Syrius application** and its di
 **Out of scope:**
 - Plugin framework and third-party integrations (may become part of future SIGs).
 
----
-
 ## Governance
 
 The Syrius SIG is an **open working group** under HC1’s governance structure.  
@@ -69,15 +59,11 @@ These include expectations for participation, proposal lifecycle, and consensus-
 - **Decision Process:** Defined according to [SDLC SIG Governance](https://github.com/hypercore-one/sig-sdlc).  
 - **Code of Conduct:** Inherits from the [HyperCore One community guidelines](https://github.com/hypercore-one/.github/blob/master/CODE_OF_CONDUCT.md).
 
----
-
 ## Owned Repositories
 
 | Repository | Description |
 |-------------|--------------|
 | [`hypercore-one/sig-syrius`](https://github.com/hypercore-one/sig-syrius) | Syrius SIG documentation and meeting notes. |
-
----
 
 ## Related Repositories
 
@@ -91,8 +77,6 @@ These include expectations for participation, proposal lifecycle, and consensus-
 | [`zenon-network/ledger_ffi_rs`](https://github.com/zenon-network/ledger_ffi_rs) | Rust FFI bridge for Ledger Nano S/X communication. |
 | [`zenon-network/zenon-node-database`](https://github.com/zenon-network/zenon-node-database) | Curated list of public RPC endpoints for the Zenon Network. |
 
----
-
 ## Initial Focus Areas
 
 - Wallet stability and performance improvements  
@@ -100,8 +84,6 @@ These include expectations for participation, proposal lifecycle, and consensus-
 - Build system modernization (Flutter/Dart)  
 - Continuous integration and testing improvements  
 - Security review and key management best practices  
-
----
 
 ## Active Initiatives
 

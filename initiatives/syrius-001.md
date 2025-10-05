@@ -1,4 +1,4 @@
-## Initiative: 001 (Bloc Refactor)
+## Initiative: Syrius-001 (Bloc Refactor)
 
 **Lead / Sponsor:** @?:hc1.chat  
 **Status:** In progress  
@@ -8,8 +8,6 @@
 - Core wallet features (accounts, keys, transactions, node/RPC interaction, settings)
 - Cross-platform app layers (desktop + mobile)
 - Build & tooling (flavors, analysis rules, test infra)
-
----
 
 ### Deliverables
 
@@ -53,7 +51,5 @@
    - Bloc tests per feature; DAO tests for drift; smoke tests for navigation.
    - Contributor docs: module structure, how to add a bloc, how to write a migration/test.
    - **Acceptance:** Coverage target ≥ 60% for refactored modules; docs in `/docs` and README anchors.
-
----
 
 ### Milestones & Checklist

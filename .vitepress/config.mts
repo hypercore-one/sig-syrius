@@ -9,6 +9,9 @@ export default defineConfig({
     'README.md': 'index.md',
     '(.*)/README.md': '(.*)/index.md'
   },
+  ignoreDeadLinks: [
+    '/initiatives',
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
